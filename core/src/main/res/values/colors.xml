@@ -18,7 +18,7 @@
     <color name="secondaryColorDefault">#03dac6</color>
     <color name="secondaryLightColorDefault">#e3e3e3</color>
     <color name="secondaryDarkColorDefault">#848484</color>
-    <color name="primaryTextColorDefault">#ffffff</color>
+    <color name="primaryTextColorDefault">#ffff00</color>
     <color name="secondaryTextColorDefault">#000000</color>
     <color name="overviewPillColorDefault">#1c171c</color>
     <color name="colorOnPrimaryDefault">#FFFFFF</color>
